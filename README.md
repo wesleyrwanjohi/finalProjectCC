@@ -9,7 +9,7 @@ Currently planning and prototyping
 Prototype includes the following:
 * .blend file of model
 * uproject folder containing textures, models and blueprints
-* .mp4 video of procedural mesh playtesting
+* a youtube video link of procedural mesh playtesting
 
 Instructions on running project:
 * Download zip file of repository

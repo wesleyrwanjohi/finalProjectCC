@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TerrainTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\wesle\OneDrive\Documents\Unreal Projects\TerrainTest\Intermediate\Build\Win64\TerrainTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\wesle\OneDrive\Documents\Unreal Projects\TerrainTest\Intermediate\Build\Win64\UE4Editor\Development\TerrainTest\RockActor.cpp.obj"
+"C:\Users\wesle\OneDrive\Documents\Unreal Projects\TerrainTest\Intermediate\Build\Win64\UE4Editor\Development\TerrainTest\TerrainTest.cpp.obj"
+"C:\Users\wesle\OneDrive\Documents\Unreal Projects\TerrainTest\Intermediate\Build\Win64\UE4Editor\Development\TerrainTest\RockActor.gen.cpp.obj"
+"C:\Users\wesle\OneDrive\Documents\Unreal Projects\TerrainTest\Intermediate\Build\Win64\UE4Editor\Development\TerrainTest\TerrainTest.init.gen.cpp.obj"
+"C:\Users\wesle\OneDrive\Documents\Unreal Projects\TerrainTest\Intermediate\Build\Win64\UE4Editor\Development\TerrainTest\Default.rc2.res"
+/OUT:"C:\Users\wesle\OneDrive\Documents\Unreal Projects\TerrainTest\Intermediate\Build\Win64\UE4Editor\Development\TerrainTest\UE4Editor-TerrainTest.lib"
+/INCLUDE:IMPLEMENT_MODULE_TerrainTest

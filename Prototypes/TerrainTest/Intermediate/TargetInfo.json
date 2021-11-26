@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TerrainTest",
+			"Path": "C:\\Users\\wesle\\OneDrive\\Documents\\Unreal Projects\\TerrainTest\\Source\\TerrainTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TerrainTestEditor",
+			"Path": "C:\\Users\\wesle\\OneDrive\\Documents\\Unreal Projects\\TerrainTest\\Source\\TerrainTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

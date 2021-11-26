@@ -15,4 +15,4 @@ Instructions on running project:
 * Download zip file of repository
 * Extract folder
 * Ensure you have **UE4 installed (preferrably version _4.20+_)**
-* run 'TerrainTest.uproject' file
+* run 'TerrainTest.uproject' file (loacted in 'Prototypes/TerrainTest')

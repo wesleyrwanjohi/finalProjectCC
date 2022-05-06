@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PCGTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{72825F94-E80E-4CDA-B793-30F38709800F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PCGTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PCGTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{46EB434C-0344-485A-B560-96B3CB3BB8DE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PCGTest">
+      <UniqueIdentifier>{C1C2E3E4-C579-46BA-B829-4E4AA166D00D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PCGTest\PCGTest.Build.cs">
+      <Filter>Source\PCGTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PCGTest\PCGTest.cpp">
+      <Filter>Source\PCGTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PCGTest\PCGTest.h">
+      <Filter>Source\PCGTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PCGTest\ProeceduralRoom.cpp">
+      <Filter>Source\PCGTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PCGTest\ProeceduralRoom.h">
+      <Filter>Source\PCGTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

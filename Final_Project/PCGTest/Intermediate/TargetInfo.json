@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PCGTest",
+			"Path": "C:\\Users\\wesle\\OneDrive\\Documents\\Unreal Projects\\PCGTest\\Source\\PCGTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PCGTestEditor",
+			"Path": "C:\\Users\\wesle\\OneDrive\\Documents\\Unreal Projects\\PCGTest\\Source\\PCGTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

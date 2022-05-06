@@ -1,6 +1,6 @@
 ## Creative Computing Final Project - UE4 Game Environment
 
-A game environment project created using both manual and procedural techniques
+An Unreal Engine 4 game environment project created using both manual and procedural techniques. Assets created over a variety of software. Examples inlucde Openframeworks, Blender and Adobe Substance Painter
 
 ## Final Project - PCG Test
 
